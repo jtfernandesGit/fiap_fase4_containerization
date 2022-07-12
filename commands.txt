@@ -1,0 +1,6 @@
+oc whoami
+oc get projects
+oc get pods
+ls
+oc apply -f hpa-rm343281.yml
+oc get hpa
